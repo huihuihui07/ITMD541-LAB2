@@ -109,8 +109,8 @@
 
 #grid-section3 .grid {
   display: grid;
-  grid-template-rows: 175px 350px 175px;
-  grid-template-columns: 40% 60%;
+  grid-template-rows: 100px 300px 100px;
+  grid-template-columns: 66.666% 33.333%;
   justify-content: space-around;
   grid-gap: 10px;
   padding-left: 5px;
